@@ -8,6 +8,48 @@ But we know that learning is just one part of the equation – that’s why we a
 
 At Novotern EdTech, we’re passionate about helping people of all backgrounds and experience levels succeed in tech. We believe that with the right knowledge, skills, and support, anyone can break into this exciting and rewarding field.
 
+## Our Programs
+1. ### **Data Analytics Fast Track**
+   
+   *Duration*: 3 Months
+   
+   Unlock business insights with this track. Learn to collect, analyse and interpret data for strategic decision-making. [Learn More | Enroll](https://paystack.shop/novotern)
+---
+2. ### **Scrum Master Track**
+   
+   *Duration*: 2 Months
+   
+   Lead agile teams to success with. Learn to manage projects, facilitate sprints, and drive continuous improvement.  [Learn More | Enroll](https://paystack.shop/novotern)
+---
+3. ### **Business Analysis Track**
+
+   *Duration*: 2 Months
+
+   Master the skills of business analysis and drive organizational success with our expert-led Business Analysis Track. [Learn More | Enroll](https://paystack.shop/novotern)
+---
+4. ### **Data Science & AI Track**
+
+   *Duration*: 2 Months
+
+   Master Artificial Intelligence and Data Science. Learn machine learning, big data and predictive modelling. [Learn More | Enroll](https://paystack.shop/novotern)
+---
+5. ### **Agile Product Ownership Track**
+
+   *Duration*: 2 Months
+
+   Bring your product vision to life, our expert-led track designed to enhance your skills in Agile product management. [Learn More | Enroll](https://paystack.shop/novotern)
+---
+6. ### **Extended Reality XR Track**
+
+   *Duration*: 2 Months
+
+   Explore the future with XR. Learn to create immersive experiences with augmented, virtual & mixed reality. [Learn More | Enroll](https://paystack.shop/novotern)
+
+   
+
+   
+   
+
 <!---
 Novotern/Novotern is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
